@@ -138,7 +138,7 @@
 
 **Old Question:**
 
-**What is Widgets? Explain different Features of CMS.**
+**What is Widgets?**
 
 Widgets are small blocks or modules that perform specific functions and can be added to different areas of a website (typically sidebars, footers, or headers). They provide dynamic content and functionality without requiring coding knowledge.
 
@@ -149,7 +149,35 @@ Widgets are small blocks or modules that perform specific functions and can be a
 - Categories list
 - Calendar
 
-<br>
+---
+
+**What is CMS? Explain different Features of CMS.**
+
+**CMS (Content Management System)** is a software application that allows users to create, manage, modify, and publish digital content without requiring specialized technical knowledge or coding skills.
+
+**Key Characteristics:**
+
+- User-friendly interface
+- Separation of content from design
+- Multiple user collaboration
+- Built-in templates and themes
+- Plugin/extension architecture
+
+**Popular CMS Examples:**
+
+- WordPress (most popular, 43% of web)
+- Joomla
+- Drupal
+- Magento (e-commerce focused)
+- Shopify
+
+**Benefits:**
+
+- No coding knowledge required
+- Cost-effective website management
+- Easy content updates
+- SEO-friendly
+- Community support and resources
 
 **Different Features of CMS**
 
@@ -224,39 +252,9 @@ Widgets are small blocks or modules that perform specific functions and can be a
 
 ---
 
-## Question 3: What is CMS? Write the steps to create submenu in WordPress or Joomla?
-
-### What is CMS?
-
-**CMS (Content Management System)** is a software application that allows users to create, manage, modify, and publish digital content without requiring specialized technical knowledge or coding skills.
-
-**Key Characteristics:**
-
-- User-friendly interface
-- Separation of content from design
-- Multiple user collaboration
-- Built-in templates and themes
-- Plugin/extension architecture
-
-**Popular CMS Examples:**
-
-- WordPress (most popular, 43% of web)
-- Joomla
-- Drupal
-- Magento (e-commerce focused)
-- Shopify
-
-**Benefits:**
-
-- No coding knowledge required
-- Cost-effective website management
-- Easy content updates
-- SEO-friendly
-- Community support and resources
+## Question 3: Write the steps to create submenu in WordPress or Joomla?
 
 ### Steps to Create Submenu in WordPress
-
-**Method 1: Using Menus Interface**
 
 1. **Access Menu Editor**
 
@@ -297,56 +295,7 @@ Widgets are small blocks or modules that perform specific functions and can be a
 - Another Parent Item
 ```
 
-### Steps to Create Submenu in Joomla
-
-**Method: Using Menu Manager**
-
-1. **Access Menu Manager**
-
-   - Login to Joomla Administrator panel
-   - Navigate to Menus → Main Menu (or desired menu)
-
-2. **Create Parent Menu Item**
-
-   - Click "New" button
-   - Select menu item type
-   - Enter menu title
-   - Configure settings
-   - Save & Close
-
-3. **Create Submenu Item**
-
-   - Click "New" again
-   - Enter submenu title
-   - Select menu item type
-
-4. **Set Parent Item**
-
-   - In the right panel, find "Parent Item" dropdown
-   - Select the parent menu item you created earlier
-   - This makes current item a child/submenu
-
-5. **Configure Additional Settings**
-
-   - Set menu status to "Published"
-   - Configure access level
-   - Set ordering if needed
-
-6. **Save Submenu Item**
-
-   - Click "Save & Close"
-
-7. **Verify Menu Structure**
-   - Return to menu manager
-   - You'll see submenu items indented under parent items
-   - Adjust ordering by dragging items if needed
-
-**Additional Tips:**
-
-- You can create multiple submenu levels in both WordPress and Joomla
-- Use descriptive names for better navigation
-- Test menu on frontend after creation
-- Ensure mobile responsiveness
+---
 
 **Old Question:**
 
@@ -441,191 +390,3 @@ Since logic is separated, unit testing becomes simpler.
 - **Laravel** (PHP)
 - **ASP.NET MVC**
 - **Spring MVC** (Java)
-
----
-
----
-
----
-
----
-
-## Question 3: What is CMS? Write the steps to create submenu in WordPress or Joomla?
-
-### What is CMS?
-
-**CMS (Content Management System)** is a software application that enables users to create, manage, modify, and publish digital content without requiring specialized technical knowledge or coding skills.
-
-**Key Characteristics:**
-
-- Separates content from design
-- Provides a user-friendly interface for content management
-- Allows multiple users to collaborate on content
-- Manages website structure and navigation
-- Handles media files and digital assets
-
-**Popular CMS Platforms:**
-
-- WordPress (most popular, 40%+ of websites)
-- Joomla
-- Drupal
-- Magento (for e-commerce)
-- Shopify
-
-**Benefits of Using CMS:**
-
-- Easy content updates without technical expertise
-- Cost-effective website management
-- Quick website deployment
-- Scalability for growing websites
-- Large community support and resources
-- Regular updates and security patches
-
----
-
-### Steps to Create Submenu in WordPress
-
-#### Method 1: Using WordPress Menu Manager
-
-1. **Access Menu Settings**
-
-   - Login to WordPress Admin Dashboard
-   - Navigate to "Appearance" → "Menus"
-
-2. **Select or Create a Menu**
-
-   - Select an existing menu from the dropdown
-   - Or click "Create a new menu" to start fresh
-   - Give your menu a name and click "Create Menu"
-
-3. **Add Menu Items**
-
-   - From the left panel, select items to add:
-     - Pages
-     - Posts
-     - Custom Links
-     - Categories
-   - Check the items you want to add
-   - Click "Add to Menu"
-
-4. **Create Submenu Structure**
-
-   - In the menu structure area on the right, drag a menu item slightly to the right beneath another item
-   - The indented item becomes a submenu (child) of the item above it
-   - You can create multiple levels of submenus by further indenting items
-   - Visual indication: Submenu items appear indented with a "sub item" label
-
-5. **Arrange Menu Order**
-
-   - Drag and drop items to reorder them
-   - Create nested submenus by dragging items under other submenus
-
-6. **Configure Menu Settings**
-
-   - Expand each menu item to edit:
-     - Navigation Label
-     - Title Attribute
-     - CSS Classes
-     - Link Target
-   - Check menu display locations (Primary Menu, Footer Menu, etc.)
-
-7. **Save Menu**
-   - Click "Save Menu" button
-   - Visit your website to see the submenu in action
-
----
-
-### Steps to Create Submenu in Joomla
-
-#### Method 1: Using Joomla Menu Manager
-
-1. **Access Menu Manager**
-
-   - Login to Joomla Administrator Panel
-   - Navigate to "Menus" → Select your menu (e.g., "Main Menu")
-   - Or go to "Menus" → "Manage"
-
-2. **Create Parent Menu Item** (if not already exists)
-
-   - Click "New" button to create a new menu item
-   - Enter menu title
-   - Select menu item type (Article, Category, etc.)
-   - Select the content to link to
-   - Set "Parent Item" to "Menu Item Root" for top-level items
-   - Save & Close
-
-3. **Create Submenu Item**
-
-   - Click "New" button again to create submenu item
-   - Enter menu title for the submenu item
-   - Select menu item type
-   - **Important:** In "Parent Item" dropdown, select the parent menu item you created earlier
-   - This creates the parent-child relationship
-
-4. **Configure Submenu Item Details**
-
-   - Set the menu item type and link
-   - Configure other settings:
-     - Target Window
-     - Template Style
-     - Access Level
-     - Status (Published/Unpublished)
-
-5. **Add Multiple Submenu Items**
-
-   - Repeat step 3 for each submenu item
-   - Select the same parent item to create multiple submenus under one parent
-
-6. **Create Multi-Level Submenus (Optional)**
-
-   - To create a submenu within a submenu:
-   - Create a new menu item
-   - Set its parent as the existing submenu item
-   - This creates a third level in the menu hierarchy
-
-7. **Reorder Menu Items**
-
-   - In the menu manager, use the drag handles (⋮⋮) to reorder items
-   - Or use the ordering column to set numeric order
-   - Click "Save Order" icon if using numeric ordering
-
-8. **Check Menu Structure**
-
-   - Look at the menu list view to see the hierarchy
-   - Parent items show with submenus indented beneath them
-   - Level indicators (• and -) show the menu depth
-
-9. **Assign Menu to Module**
-
-   - Go to "Extensions" → "Modules"
-   - Find your menu module (e.g., "Main Menu")
-   - Ensure it's published and assigned to the correct position
-   - Select which menu to display
-   - Set module parameters (show submenu levels, etc.)
-
-10. **Preview and Test**
-    - Visit your website frontend
-    - Test the menu navigation
-    - Verify dropdown functionality
-    - Check responsive behavior on mobile devices
-
----
-
-### Tips for Creating Effective Submenus
-
-**WordPress:**
-
-- Keep submenu depth to 2-3 levels maximum for usability
-- Use descriptive navigation labels
-- Test on mobile devices as some themes hide deep submenus
-- Consider using mega menu plugins for complex navigation
-
-**Joomla:**
-
-- Use the menu hierarchy view to visualize structure
-- Set access levels appropriately for each submenu item
-- Configure module settings to control submenu display depth
-- Test menu behavior with different templates
-- Use menu item aliases for SEO-friendly URLs
-
-Both platforms support drag-and-drop menu organization, making it easy to create and modify submenu structures without technical knowledge.
