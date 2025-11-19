@@ -2,7 +2,7 @@
 
 ![Bidur Sapkota](https://www.bidursapkota.com.np/_next/image?url=%2Fimages%2Fprofile3.png&w=48&q=75 "Bidur Sapkota - Developer")&nbsp;[Bidur Sapkota](https://www.bidursapkota.com.np/)
 
-![WordPress Guide by Bidur Sapkota](/6-wordpress-post.jpg "WordPress Guide – Blog by Bidur Sapkota")
+![WordPress Guide by Bidur Sapkota](/10-wordpress-guide.jpg "WordPress Guide – Blog by Bidur Sapkota")
 
 ## Table of Contents
 
