@@ -252,47 +252,39 @@ Widgets are small blocks or modules that perform specific functions and can be a
 
 ---
 
-## Question 3: Write the steps to create submenu in WordPress or Joomla?
+**Old Question:**
 
-### Steps to Create Submenu in WordPress
+**Write the steps to create submenu in WordPress or Joomla?**
 
-1. **Access Menu Editor**
+1. **Access Full Site Editor**
 
    - Login to WordPress Dashboard
-   - Navigate to Appearance → Menus
+   - Navigate to Appearance → Editor
 
-2. **Select or Create Menu**
+2. **Select Header Pattern**
 
-   - Select an existing menu or create new by entering menu name
-   - Click "Create Menu"
+   - Click Pattern → Header
+   - Choose your header template part and click to edit
 
-3. **Add Menu Items**
+3. **Add New Custom Page List**
 
-   - From left sidebar, select pages, posts, custom links, or categories
-   - Click "Add to Menu"
+   - Expand items in header. Find page list and add new custom link. Add name All and give link # for now.
+   - Create new custom link content1 and content2.
 
-4. **Create Submenu Structure**
+4. **Append sublink to parent link**
 
-   - Drag the menu item slightly to the right under the parent item
-   - The item becomes indented, indicating it's a submenu
-   - You can create multiple levels by further indenting
+   - Go to navigation and indent sublinks to right of parent link by dragging.
+   - Remove # from parent link.
 
-5. **Configure Menu Settings**
-
-   - Assign menu to a location (Primary Menu, Footer Menu, etc.)
-   - Check the box for desired location
-
-6. **Save Menu**
-   - Click "Save Menu" button
+5. **Save Changes**
+   - Click "Save" button
 
 **Visual Hierarchy:**
 
-```
-- Parent Menu Item
-    - Submenu Item 1
-        - Sub-submenu Item
-    - Submenu Item 2
-- Another Parent Item
+```text
+Parent Menu Item
+    Submenu Item 1
+    Submenu Item 2
 ```
 
 ---
