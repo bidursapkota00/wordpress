@@ -307,7 +307,7 @@ Widgets are small blocks or modules that perform specific functions and can be a
 
 **MVC (Model–View–Controller)** is a **software architectural pattern** used for designing applications by separating them into three interconnected components:
 
-![MVC Architecture](/images/php/MVC-Architecture.webp)
+![MVC Architecture](/MVC-Architecture.webp)
 
 ### **1. Model**
 
