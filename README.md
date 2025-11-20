@@ -8,6 +8,7 @@
 
 1. [Install WordPress with XAMPP](#install-wordpress-with-xampp)
 2. [Initial WordPress Setup Process](#initial-wordpress-setup-process)
+3. [Lab 7 - WordPress](#lab-7---wordpress)
 
 ## Install WordPress with XAMPP
 
@@ -382,3 +383,16 @@ Since logic is separated, unit testing becomes simpler.
 - **Laravel** (PHP)
 - **ASP.NET MVC**
 - **Spring MVC** (Java)
+
+## Lab 7 - WordPress
+
+**Theory**
+
+What is CMS? Explain different Features of CMS.
+What is Widgets? What is difference between WordPress theme and template?
+
+**Practical**
+
+Add and edit pages in WordPress.
+Crete posts and create blog pages in WordPress.
+Create submenu in WordPress.
