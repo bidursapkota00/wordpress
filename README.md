@@ -388,11 +388,11 @@ Since logic is separated, unit testing becomes simpler.
 
 **Theory**
 
-What is CMS? Explain different Features of CMS.
-What is Widgets? What is difference between WordPress theme and template?
+- What is CMS? Explain different Features of CMS.
+- What is Widgets? What is difference between WordPress theme and template?
 
 **Practical**
 
-Add and edit pages in WordPress.
-Crete posts and create blog pages in WordPress.
-Create submenu in WordPress.
+- Add and edit pages in WordPress.
+- Crete posts and create blog pages in WordPress.
+- Create submenu in WordPress.
